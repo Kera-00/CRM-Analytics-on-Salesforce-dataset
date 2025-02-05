@@ -1,0 +1,23 @@
+Opportunity Dashboard
+  Expected Amount
+  Active Opportunities-Total count of open opportunities.
+  Conversion Rate-Conversion Rate (%)=(Closed Won Opportunities/Total Opportunities​)×100
+  Win Rate-Win Rate (%)=(Closed Won Opportunities/Total Opportunities​)×100
+  Loss Rate-Loss Rate (%)=(Closed Lost Opportunities/Total Opportunities​)×100
+  Trend Analysis 
+    Expected Vs Forecast: Running total comparison of expected revenue and forecast over time.
+    Active Vs Total Opportunities: Cumulative active vs. total opportunities trend.
+    Closed Won Vs Total Opportunities: Track closed-won deals against total opportunities.
+    Closed Won Vs Total Closed: Analyse closed-won deals compared to all closed deals.
+  Expected Amount by Opportunity Type
+  Opportunities by Industry
+
+Lead Dashboard
+  Total Lead
+  Expected Amount from Converted Leads 
+  Conversion Rate-Conversion Rate (%)=(Leads Converted to Customers/Total Lead​)×100
+  Converted Accounts
+  Converted Opportunities
+  Lead By Source
+  Lead By industry
+  Lead by Stage
